@@ -139,6 +139,7 @@
             <plugin>
                 <groupId>org.wildfly.plugins</groupId>
                 <artifactId>wildfly-maven-plugin</artifactId>
+                <version>${wildfly.maven-plugin.version}</version>
                 <configuration>
                     <skip>true</skip>
                 </configuration>
